@@ -37,10 +37,10 @@ These programs are installed and I am currently using
 # Installation
 
 * First clone the repo by,
-    `git clone `
+    `git clone https://github.com/tejas12345678/Config.git`
 * First backing up the exixting config files, so if you require it in future its available. 
-    `zip Backup_config.zip ~/.config/picom ~/.config/polybar `
+    `zip Backup_config.zip ~/.config/picom ~/.config/polybar ~/.config/mpd ~/.config/i3`
 * Enter the cloned directory
-    `cd config`
-* Run the script 
+    `cd Config`
+* Run the script or you can manually select what you Want in your config. 
 * Removing the cloned directory
