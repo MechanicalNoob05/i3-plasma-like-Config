@@ -41,13 +41,10 @@ These programs are installed and I am currently using
     `zip Backup_config.zip ~/.config/picom ~/.config/polybar ~/.config/mpd ~/.config/ncmpccp ~/.config/i3 ~/.config/rofi`
     
 * Enter the cloned directory
-    `cd Config-main`
+    `cd Config`
     
 * Giving permisions to the bash script.
      `chmod +x install.sh`
      
 * Run the script or you can manually select what you Want in your config. 
      `./install.sh`
-     
-* Removing the cloned directory
-      `rm -r -v Config-main`
