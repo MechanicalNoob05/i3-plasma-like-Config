@@ -8,6 +8,9 @@ This is my attempt to customise my desktop, currently I am using manjaro with I3
 ### Now the Chatting Applictions, I have turned on Dark theme on telegram to be fair.
 ![Screenshot_2022-06-24_18-04-49](https://user-images.githubusercontent.com/35838069/175538628-c0d0fde9-5ec5-46d5-831e-66c199a459b8.png)
 
+![Screenshot_2022-06-24_19-43-03](https://user-images.githubusercontent.com/35838069/175553953-97e1a998-4819-4201-b1b7-2fb074e61db2.png)
+
+
 ### Visual studio as well (Though this is just a start page i am trying to put together)
 ![Screenshot_2022-06-24_18-05-14](https://user-images.githubusercontent.com/35838069/175538650-fa4104f9-9845-4d51-9842-ab6bd0eb1dee.png)
 
