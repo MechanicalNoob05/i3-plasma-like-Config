@@ -30,9 +30,7 @@ These programs are installed and I am currently using
 4) [Mpd](https://github.com/MusicPlayerDaemon/MPD) : For the music demon
 5) [Ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) : The client for mpd
 6) [Picom](https://github.com/yshui/picom) : I am using a picom fork. 
-    * Note : The branch which I am using is Development branch.
-    - It's available in AUR, run `yay -S picom-git` inorder to install this version.
-    - It will ask to delete the original picom if already installed.
+    * Note : The branch which I am using is Development branch.It's available in AUR, run `yay -S picom-git` inorder to install this version.It will ask to delete the original picom if already installed.
 
 # Installation
 
