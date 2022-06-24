@@ -38,9 +38,18 @@ These programs are installed and I am currently using
 
 * First clone the repo by,
     `git clone https://github.com/tejas12345678/Config.git`
+    
 * First backing up the exixting config files, so if you require it in future its available. 
-    `zip Backup_config.zip ~/.config/picom ~/.config/polybar ~/.config/mpd ~/.config/i3`
+    `zip Backup_config.zip ~/.config/picom ~/.config/polybar ~/.config/mpd ~/.config/ncmpccp ~/.config/i3 ~/.config/rofi`
+    
 * Enter the cloned directory
-    `cd Config`
+    `cd Config-main`
+    
+* Giving permisions to the bash script.
+     `chmod +x install.sh`
+     
 * Run the script or you can manually select what you Want in your config. 
+     `./install.sh`
+     
 * Removing the cloned directory
+      `rm -r -v Config-main`
