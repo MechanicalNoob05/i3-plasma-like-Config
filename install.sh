@@ -1,5 +1,5 @@
 #!/usr/bin/env bash 
-echo "----------------------------------------------------"
+echo "------------------------------------------------------------------------"
 echo "Hello, hope you like this"
 echo "Please make sure you have installed all the programs you want config for"
 echo "This program assumes you have cloned the repo in home directory"
@@ -20,6 +20,13 @@ function polybar {
     cp -r polybar/ ~/.config/
     echo "Polybar setup done!"
 }
+function rofi {
+    cp -r rofi/ ~/.config/
+    echo "Polybar setup done!"
+}
+#######################--Creating backup--#########################
+echo "There is a backup zip created "
+zip Backup_config.zip ~/.config/picom ~/.config/polybar ~/.config/mpd ~/.config/i3 ~/.config/rofi
 ##############--User Input for which Setup he wants--##############
 echo "Do you want i3 setup?(y/n)"
 read one
@@ -29,6 +36,8 @@ echo "Do you want picom setup?(y/n)"
 read three
 echo "Do you want polybar setup?(y/n)"
 read four
+echo "Do you want rofi setup?(y/n)"
+read five
 
 ##############--Installing the demanded files--##############
 if [ $one = 'y' ]; then
@@ -58,6 +67,13 @@ if [ $four = 'y' ]; then
 else 
     echo "Skipping polybar config..."
 fi
+if [ $four = 'y' ]; then
+	echo "Setting up rofi config...."
+    rofi
+else 
+    echo "Skipping rofi config..."
+fi
+
 
 echo "Setup is completed reload the window manager and the affects will take place"
 echo "window_key+shift+r in case you are using my i3 config"
