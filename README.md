@@ -17,6 +17,12 @@ This is my attempt to customise my desktop, currently I am using manjaro with I3
 ### The floating mode is unaffected as well (My screen size is small therefore just two applications)
 ![Screenshot_2022-06-24_18-08-04](https://user-images.githubusercontent.com/35838069/175538667-87009cd2-7e51-4cf8-97fe-35c5e33075ba.png)
 
+### Run launcher i.e. Rofi.
+![Screenshot_2022-06-25_13-31-46](https://user-images.githubusercontent.com/35838069/175764457-f7ff0891-d40b-421b-a92e-8e71cfa6ee47.png)
+
+![Screenshot_2022-06-25_13-32-59](https://user-images.githubusercontent.com/35838069/175764464-520042f2-7406-436b-9ecc-63d189e78f56.png)
+
+
 # MAIN GOALS
 The main goal of this project is to get a KDE desktop which is pleasing to look at and work in as well as resource efficient. I do have several other applictions wich have the semi-transperent effect to it such as Thunderbird, etc. It is great for those who want to have eye candy with minimum overhaul on the system.
 
