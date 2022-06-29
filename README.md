@@ -45,7 +45,7 @@ These programs are installed and I am currently using:
     `git clone https://github.com/tejas12345678/Config.git`
     
 * Enter the cloned directory
-    `cd Config`
+    `cd i3-plasma-like-Config`
     
 * Giving permisions to the bash script.
     `chmod +x install.sh`
