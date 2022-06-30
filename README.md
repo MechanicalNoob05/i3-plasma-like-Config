@@ -42,7 +42,7 @@ These programs are installed and I am currently using:
 # Installation
 
 * First clone the repo by,
-    `git clone https://github.com/tejas12345678/i3-plasma-like-Config.git`
+    `git clone https://github.com/MechanicalNoob05/i3-plasma-like-Config.git`
     
 * Enter the cloned directory
     `cd i3-plasma-like-Config`
